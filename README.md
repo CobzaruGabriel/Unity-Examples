@@ -11,6 +11,8 @@
 
 ### Components of Unity's UI
 
+![](_misc/UnityEditor.png)
+
 **Scene View**: displays the game world where objects can be interacted with. The scene view is interactive even when the game is running, allowing the objects to be inspected for debugging purposes.
 
 **Game View**: is a tab located next to the *Scene View* tab, which is displayed automatically when a game is run. It displays the currently running game.
