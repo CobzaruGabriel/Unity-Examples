@@ -52,7 +52,7 @@ The Unity game engine executes the script code.
 
 ### MonoBehaviour
 
-A script is a component only if it inherits from *MonoBehaviour* and only scripts can be attached to game objects. *MonoBehaviour* does the heavylifting of attaching components to 
+A script is a component only if it inherits from *MonoBehaviour* and only components can be attached to game objects. *MonoBehaviour* does the heavylifting of attaching components to 
 the game objects.
 
 Each script generally contains a class and "attaching" a script (a component script) to a game object is similar to associating an instance of that class to that object.
