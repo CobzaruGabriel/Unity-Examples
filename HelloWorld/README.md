@@ -2,7 +2,7 @@
 
 Create a new script from the menu; Assets -> Create -> C# Script (or) Right click on Assets in Project View -> Create -> C# Script
 
-```cs
+```csharp
 using UnityEngine;
 using System.Collections;
 
