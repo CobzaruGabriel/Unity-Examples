@@ -1,11 +1,11 @@
 ### Features
 
-Dynamic Shadows
-Normal Maps
-Physics Simulations
-Screen Space Ambient Occlusion (SSAO)
-Cross Platform Support (Mac, Windows, iPhone, Android, WebGL, XBox, PlayStation)
-Visual Editor
+1. Dynamic Shadows
+2. Normal Maps
+3. Physics Simulations
+4. Screen Space Ambient Occlusion (SSAO)
+5. Cross Platform Support (Mac, Windows, iPhone, Android, WebGL, XBox, PlayStation)
+6. Visual Editor
 
 ### Basics
 
