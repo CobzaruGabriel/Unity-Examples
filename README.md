@@ -20,7 +20,7 @@
 **Hieararchy View**: displays objects in the scene and their relationship hierarchies as a list view.
 
 **Inspector View**: displays information about the currently selected object, which includes details about a list of components attached to the selected object. 
-All objects have at least the Transform component, which deals with position and orientation of that object. 
+All objects have a Transform component, which deals with position/orientation/scaling of that object. 
 Scripts that inherit from *MonoBehaviour* are treated as components and can be attached to game objects.
 
 **Project View**: displays all the files in the project, which include assets like art assets and code. 
