@@ -11,7 +11,7 @@
 
 ### Components of Unity's UI
 
-**Scene View**: displays the game world where objects can be interacted with. 
+**Scene View**: displays the game world where objects can be interacted with. The scene view is interactive even when the game is running, allowing the objects to be inspected for debugging purposes.
 
 **Game View**: is a tab located next to the *Scene View* tab, which is displayed automatically when a game is run. It displays the currently running game.
 
@@ -21,9 +21,13 @@
 All objects have at least the Transform component, which deals with position and orientation of that object. 
 Scripts that inherit from *MonoBehaviour* are treated as components and can be attached to game objects.
 
-**Project View**: displays all the assets in the project, which include art assets and code. 
+**Project View**: displays all the files in the project, which include assets like art assets and code. 
 The left panel displays a list of directories which when selected displays their contents in the right panel.
 The conents displayed are a mirror of what exists in the filesystem. 
+
+**Console View**: is where messages from programs are displayed.
+
+**Toolbar**: contains buttons to the left for exploring the scene
 
 ### Basics
 
