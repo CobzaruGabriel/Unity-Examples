@@ -1,5 +1,9 @@
 ### Steps
 
+The default project template creates an unsaved empty scene, so save it first.
+
+
+
 Create a new script from the menu; Assets -> Create -> C# Script (or) Right click on Assets in Project View -> Create -> C# Script
 
 ```csharp
