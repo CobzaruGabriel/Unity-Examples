@@ -28,6 +28,8 @@ Create an Empty Game Object; GameObject -> Create Empty. The newly created GameO
 
 Attach the newly created script to the empty Game Object, by dragging it and dropping it on the Game Object in the Hierarchy View.
 
+Notice how the script is displayed as an attached component in the inspector view for the game object.
+
 ![](_misc/ScriptAttached.png)
 
 
