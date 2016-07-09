@@ -31,6 +31,8 @@ The conents displayed are a mirror of what exists in the filesystem.
 
 **Toolbar**: contains buttons to the left for exploring the scene
 
+![](http://docs.unity3d.com/Manual/LearningtheInterface.html)
+
 ### Basics
 
 
