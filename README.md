@@ -20,7 +20,7 @@
 **Hieararchy View**: displays objects in the scene and their relationship hierarchies as a list view.
 
 **Inspector View**: displays information about the currently selected object, which includes details about a list of components attached to the selected object. 
-All objects have at least the Transform component, which deals with position and orientation of that object. 
+All objects have a Transform component, which deals with position/orientation/scaling of that object. 
 Scripts that inherit from *MonoBehaviour* are treated as components and can be attached to game objects.
 
 **Project View**: displays all the files in the project, which include assets like art assets and code. 
@@ -48,13 +48,15 @@ A game object can have a component collection attached to it, which can include 
 
 Game objects are 
 
-The Unity game engine executes the script code 
+The Unity game engine executes the script code.
 
 ### MonoBehaviour
 
-A script is a component only if it inherits from *MonoBehaviour* and only scripts can be attached to game objects, as *MonoBehaviour* does the heavylifting of attaching components to 
+A script is a component only if it inherits from *MonoBehaviour* and only components can be attached to game objects. *MonoBehaviour* does the heavylifting of attaching components to 
 the game objects.
 
+Each script generally contains a class and "attaching" a script (a component script) to a game object is similar to associating an instance of that class to that object.
+ 
 The following methods of *MonoBehaviour* could be overridden to provide custom behavior
 
 1. Start()
