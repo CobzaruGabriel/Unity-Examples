@@ -28,6 +28,9 @@ Create an Empty Game Object; GameObject -> Create Empty. The newly created GameO
 
 Attach the newly created script to the empty Game Object, by dragging it and dropping it on the Game Object in the Hierarchy View.
 
+![](_misc/ScriptAttached.png)
+
+
 ```csharp
 using UnityEngine;
 using System.Collections;
