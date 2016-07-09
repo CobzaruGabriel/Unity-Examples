@@ -68,4 +68,4 @@ The *Update()* method is called for every frame.
 
 ### Left-hand Coordinates vs Right-hand Coordinates
 
-
+![](_misc/lhvsrhcoordinates.png)
